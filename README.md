@@ -29,6 +29,13 @@ O projeto visa monitorar a umidade do ar em ambientes residenciais e alertar os 
 - `/dispositivo-simulado`: Arquivo com o código do ESP32 ou o link do circuito no Wokwi.
 - `/node-red-fluxo`: Exportação completa do fluxo Node-RED em `.json`.
 - `/imagens`: Capturas de tela do dashboard, arquitetura e fluxo.
+
+
+##Link do Circuito no Wokwi
+- https://wokwi.com/projects/431956320411390977
+- https://wokwi.com/projects/431966278526422017
+
+
   
 ## 📊 Painel de Monitoramento
 
